@@ -1,0 +1,25 @@
+h1 {
+    font-family: 'Borel', cursive;
+}
+
+.profilephoto{
+    border-radius: 45%;
+    height: 200px;
+}
+
+.testimonial{
+    font-family: 'Nunito Sans', sans-serif;
+    color: darkblue;
+}
+
+p.testimonial{
+    font-style: italic;  
+}
+
+body{
+    background-color: rgba(230, 230, 252, 0.533);
+}
+
+.aboutme{
+    background-color: #e1f2c2;
+}
